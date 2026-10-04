@@ -1,6 +1,6 @@
 I'm Silke, a Data Science major at the University of Wisconsin–Madison.
 
-Right now, I'm building data analysis projects and exploring new ways to work with data. You can check out my latest project [here](https://github.com/your-username/your-repo](https://github.com/yulawless/college-talent-production).
+Right now, I'm building data analysis projects and exploring new ways to work with data. You can check out my latest project [here](https://github.com/yulawless/college-talent-production).
 
 I mainly work with Python, SQL, and pandas.
 
